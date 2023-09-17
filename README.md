@@ -29,5 +29,5 @@ Para este reto, cree un notebook en python y, con ayuda de una extensión de Vis
 
     _Para este caso, me basé en que una de las propiedades de los triánqulos es que la suma de dos de sus lados debe ser mayor a la longitud de su tercer lado._
 
-### ¡Muchas gracias por tu atención y te agradezco si le das una estrellita a mi repo que me esforzé mucho haciéndolo!
+### ¡Muchas gracias por tu atención y te agradezco si le das una estrellita a mi repo porque me esforzé mucho haciéndolo!
 ![image](https://github.com/Cate1911/Mi_Primer_Cuadernito/assets/141857246/8f98dfc9-74d8-4975-9fa0-afbc4e3fad33)
