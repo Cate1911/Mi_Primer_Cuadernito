@@ -1,5 +1,5 @@
 # Mi_Primer_Cuadernito
-Para este reto, cree un notebook en python y, con ayuda de una extensión de Visual Studio Code, llamada "Code Snap", pude tomarle fotos a las partes de mi código.
+Para este reto, cree un notebook en python y, con ayuda de una extensión de Visual Studio Code, llamada "Code Snap", pude tomarle fotos a las partes de mi código. Además, dentro de los archivos adjuntos, está mi notebook de python con todo este reto.
 1. Dado un número entero, determinar si ese número corresponde al código ASCII de una vocal minúscula.
 
    ![image](https://github.com/Cate1911/Mi_Primer_Cuadernito/assets/141857246/2b0eb85f-c98e-405a-9762-bdc70c0d2ee4)
